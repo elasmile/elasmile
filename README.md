@@ -1,7 +1,7 @@
 <!-- GitHub Profile README: Tengen Daniella Claire -->
 
 <p align="center">
-  <img height="150" src="https://ibb.co/M5QnSW36" alt="Profile banner" />
+  <img height="150" src="[https://ibb.co/M5QnSW36](https://i.ibb.co/Z17dXtkm/profilepic.jpg)" alt="Profile banner" />
 </p>
 
 ---
